@@ -1,2 +1,2 @@
 console.error('halp');
-console.error('see test');
+console.log('see test');
